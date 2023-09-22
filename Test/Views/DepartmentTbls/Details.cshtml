@@ -1,0 +1,70 @@
+﻿@model Test.Models.DepartmentTbl
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>DepartmentTbl</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DepartmentName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DepartmentName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Location)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Location)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.DepartmentId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Employee name
+                </th>
+                <th>
+                    rank
+                </th>
+                <th>
+                   Mail
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.EmployeeTbls)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.EmpName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Rank)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Mail)
+                    </td>
+                  
+                    <td>
+                        <a href="/EmployeeTbls/Edit/@item.EmpId">Edit</a> |
+                        <a href="/EmployeeTbls/Details/@item.EmpId">Details</a> |
+                        <a href="/EmployeeTbls/Delete/@item.EmpId">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
