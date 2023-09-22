@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Sem3_exam
+build_property.RootNamespace = Sem3_exam
+build_property.ProjectDir = D:\FPT phan mem\T2207E\ASP.NET MVC\SEM3Exam\SEM3_T2207E_WDA_Test\Sem3_exam\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\FPT phan mem\T2207E\ASP.NET MVC\SEM3Exam\SEM3_T2207E_WDA_Test\Sem3_exam
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/FPT phan mem/T2207E/ASP.NET MVC/SEM3Exam/SEM3_T2207E_WDA_Test/Sem3_exam/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT phan mem/T2207E/ASP.NET MVC/SEM3Exam/SEM3_T2207E_WDA_Test/Sem3_exam/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT phan mem/T2207E/ASP.NET MVC/SEM3Exam/SEM3_T2207E_WDA_Test/Sem3_exam/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT phan mem/T2207E/ASP.NET MVC/SEM3Exam/SEM3_T2207E_WDA_Test/Sem3_exam/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT phan mem/T2207E/ASP.NET MVC/SEM3Exam/SEM3_T2207E_WDA_Test/Sem3_exam/Views/TestJobs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdEpvYnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT phan mem/T2207E/ASP.NET MVC/SEM3Exam/SEM3_T2207E_WDA_Test/Sem3_exam/Views/TestJobs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdEpvYnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT phan mem/T2207E/ASP.NET MVC/SEM3Exam/SEM3_T2207E_WDA_Test/Sem3_exam/Views/TestJobs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdEpvYnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT phan mem/T2207E/ASP.NET MVC/SEM3Exam/SEM3_T2207E_WDA_Test/Sem3_exam/Views/TestJobs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdEpvYnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT phan mem/T2207E/ASP.NET MVC/SEM3Exam/SEM3_T2207E_WDA_Test/Sem3_exam/Views/TestJobs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdEpvYnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT phan mem/T2207E/ASP.NET MVC/SEM3Exam/SEM3_T2207E_WDA_Test/Sem3_exam/Views/TestUsers1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFVzZXJzMVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT phan mem/T2207E/ASP.NET MVC/SEM3Exam/SEM3_T2207E_WDA_Test/Sem3_exam/Views/TestUsers1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFVzZXJzMVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT phan mem/T2207E/ASP.NET MVC/SEM3Exam/SEM3_T2207E_WDA_Test/Sem3_exam/Views/TestUsers1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFVzZXJzMVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT phan mem/T2207E/ASP.NET MVC/SEM3Exam/SEM3_T2207E_WDA_Test/Sem3_exam/Views/TestUsers1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFVzZXJzMVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT phan mem/T2207E/ASP.NET MVC/SEM3Exam/SEM3_T2207E_WDA_Test/Sem3_exam/Views/TestUsers1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFVzZXJzMVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT phan mem/T2207E/ASP.NET MVC/SEM3Exam/SEM3_T2207E_WDA_Test/Sem3_exam/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT phan mem/T2207E/ASP.NET MVC/SEM3Exam/SEM3_T2207E_WDA_Test/Sem3_exam/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT phan mem/T2207E/ASP.NET MVC/SEM3Exam/SEM3_T2207E_WDA_Test/Sem3_exam/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-whboa8knrb

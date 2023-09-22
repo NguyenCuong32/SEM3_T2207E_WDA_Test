@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sem3_exam.props" />
+</Project>
