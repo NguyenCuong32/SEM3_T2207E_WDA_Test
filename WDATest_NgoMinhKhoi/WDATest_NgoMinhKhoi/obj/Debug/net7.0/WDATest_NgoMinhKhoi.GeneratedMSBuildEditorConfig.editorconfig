@@ -16,6 +16,46 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Demo\SEM3_T2207E_WDA_Test\WDATest_NgoMinhKhoi\WDATest_NgoMinhKhoi
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Demo/SEM3_T2207E_WDA_Test/WDATest_NgoMinhKhoi/WDATest_NgoMinhKhoi/Views/Departments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Demo/SEM3_T2207E_WDA_Test/WDATest_NgoMinhKhoi/WDATest_NgoMinhKhoi/Views/Departments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Demo/SEM3_T2207E_WDA_Test/WDATest_NgoMinhKhoi/WDATest_NgoMinhKhoi/Views/Departments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Demo/SEM3_T2207E_WDA_Test/WDATest_NgoMinhKhoi/WDATest_NgoMinhKhoi/Views/Departments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Demo/SEM3_T2207E_WDA_Test/WDATest_NgoMinhKhoi/WDATest_NgoMinhKhoi/Views/Departments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Demo/SEM3_T2207E_WDA_Test/WDATest_NgoMinhKhoi/WDATest_NgoMinhKhoi/Views/Employees/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Demo/SEM3_T2207E_WDA_Test/WDATest_NgoMinhKhoi/WDATest_NgoMinhKhoi/Views/Employees/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Demo/SEM3_T2207E_WDA_Test/WDATest_NgoMinhKhoi/WDATest_NgoMinhKhoi/Views/Employees/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Demo/SEM3_T2207E_WDA_Test/WDATest_NgoMinhKhoi/WDATest_NgoMinhKhoi/Views/Employees/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Demo/SEM3_T2207E_WDA_Test/WDATest_NgoMinhKhoi/WDATest_NgoMinhKhoi/Views/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Demo/SEM3_T2207E_WDA_Test/WDATest_NgoMinhKhoi/WDATest_NgoMinhKhoi/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
