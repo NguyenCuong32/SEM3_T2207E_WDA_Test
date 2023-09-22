@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SEM3_T2207E_WDA.props" />
+</Project>
