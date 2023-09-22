@@ -16,10 +16,10 @@ public class ApplicationContext : DbContext
     public DbSet<Employee> Employees { get; set; }
     public DbSet<Department> Departments { get; set; }
 
-    // protected override void OnModelCreating(ModelBuilder modelBuilder)
-    // {
-    //     base.OnModelCreating(modelBuilder);
-    //     modelBuilder.Entity<Employee>().ToTable("Employees");
-    //     modelBuilder.Entity<Department>().ToTable("Departments");
-    // }
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        base.OnModelCreating(modelBuilder);
+        modelBuilder.Entity<Employee>().ToTable("Employee_Tbl");
+        modelBuilder.Entity<Department>().ToTable("Department_Tbl");
+    }
 }
