@@ -19,7 +19,7 @@ namespace Sem3_exam.Mains.Models
         public int department_code { get; set; }
         [ForeignKey("department_code")]  //Chỉ định khoá ngoại
         [Display(Name = "Department type")] //Xác định tên hiển thị trên Web(html)
-        public  TestJob TypeJob { get; set; }
+        public virtual TestJob TypeJob { get; set; }
 
         [Required, MinLength(3, ErrorMessage = "Required to enter employee rank (minlength = 3).")]
         [Display(Name = "Department Rank")]

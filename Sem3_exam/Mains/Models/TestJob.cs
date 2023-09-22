@@ -17,6 +17,6 @@ namespace Sem3_exam.Mains.Models
         [Required]
         [Display(Name = "Number of personals")]
         public int number_of_personals { get; set; }
-        public virtual ICollection<TestUser> ExamsTypeJob { get; set; } = new List<TestUser>();
+        public virtual ICollection<TestUser>  TypeJob { get; set; } = new List<TestUser>();
     }
 }
