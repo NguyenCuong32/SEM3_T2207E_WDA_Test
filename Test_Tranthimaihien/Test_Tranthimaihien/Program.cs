@@ -5,8 +5,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 // Connect db
-var connectionString = builder.Configuration.GetConnectionString("T2207A");
-builder.Services.AddDbContext<Test_Tranthimaihien.Entities.DataContext>(
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<Test_Tranthimaihien.DAL.DataContext>(
         options => options.UseSqlServer(connectionString)
     );
 // End
