@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/WCD-test.props" />
+</Project>
