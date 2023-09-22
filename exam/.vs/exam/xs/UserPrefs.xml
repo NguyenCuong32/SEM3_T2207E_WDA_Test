@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{76924C3C-27E8-4316-B949-CC66F814DA39}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="23" Column="23" />
+      <File FileName="Views/Home/Index.cshtml" Line="4" Column="1" />
+      <File FileName="appsettings.json" Line="10" Column="134" />
+      <File FileName="Program.cs" Line="7" Column="84" />
+      <File FileName="Repository/SeedData.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exam" expanded="True">
+            <Node name="exam" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repository" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.exam PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
