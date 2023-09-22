@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{74A0DFDE-B5C8-4158-A5B0-53AF806CC4F7}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Test__Tranthimaihien PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test_Tranthimaihien/appsettings.json">
+    <Files>
+      <File FileName="Test_Tranthimaihien/appsettings.json" Line="8" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test_Tranthimaihien" expanded="True">
+            <Node name="Test_Tranthimaihien" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
