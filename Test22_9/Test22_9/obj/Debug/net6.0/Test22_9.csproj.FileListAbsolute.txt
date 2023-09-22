@@ -1,0 +1,8 @@
+F:\SEM3_T2207E_WDA_Test\Test22_9\Test22_9\obj\Debug\net6.0\Test22_9.csproj.AssemblyReference.cache
+F:\SEM3_T2207E_WDA_Test\Test22_9\Test22_9\obj\Debug\net6.0\Test22_9.GeneratedMSBuildEditorConfig.editorconfig
+F:\SEM3_T2207E_WDA_Test\Test22_9\Test22_9\obj\Debug\net6.0\Test22_9.AssemblyInfoInputs.cache
+F:\SEM3_T2207E_WDA_Test\Test22_9\Test22_9\obj\Debug\net6.0\Test22_9.AssemblyInfo.cs
+F:\SEM3_T2207E_WDA_Test\Test22_9\Test22_9\obj\Debug\net6.0\Test22_9.csproj.CoreCompileInputs.cache
+F:\SEM3_T2207E_WDA_Test\Test22_9\Test22_9\obj\Debug\net6.0\Test22_9.MvcApplicationPartsAssemblyInfo.cache
+F:\SEM3_T2207E_WDA_Test\Test22_9\Test22_9\obj\Debug\net6.0\Test22_9.RazorAssemblyInfo.cache
+F:\SEM3_T2207E_WDA_Test\Test22_9\Test22_9\obj\Debug\net6.0\Test22_9.RazorAssemblyInfo.cs
