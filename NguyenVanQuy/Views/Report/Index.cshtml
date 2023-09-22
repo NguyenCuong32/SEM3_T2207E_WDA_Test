@@ -1,0 +1,40 @@
+﻿@model List<NguyenVanQuy.Models.Report>
+
+@{
+    ViewData["Title"] = "Report";
+    int index = 1;
+}
+
+<h1>Index</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                STT
+            </th>
+            <th>
+               Department
+            </th>
+            <th>
+                Number Of Employee(Real)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+               @index
+            </td>
+            <td>
+               @item.department.Name
+            </td>
+            <td>
+               @item.employees.Count()
+            </td>
+        </tr>
+            index++;
+}
+    </tbody>
+</table>
