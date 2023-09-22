@@ -1,7 +1,16 @@
+using Exam.DBcontextEx;
+using Microsoft.EntityFrameworkCore;
+using System.Configuration;
+using Exam.DBcontextEx;
+
 var builder = WebApplication.CreateBuilder(args);
+IConfiguration configuration = new ConfigurationBuilder().AddJsonFile("appsettings.json")
+           .Build();
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<DbContextDe>(options => options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
 

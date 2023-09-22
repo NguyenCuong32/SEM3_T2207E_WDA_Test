@@ -16,6 +16,46 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Apptech\Git\C-\Exam\SEM3_T2207E_WDA_Test\Exam
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Apptech/Git/C-/Exam/SEM3_T2207E_WDA_Test/Exam/Views/DepartmentModels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudE1vZGVsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apptech/Git/C-/Exam/SEM3_T2207E_WDA_Test/Exam/Views/DepartmentModels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudE1vZGVsc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apptech/Git/C-/Exam/SEM3_T2207E_WDA_Test/Exam/Views/DepartmentModels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudE1vZGVsc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apptech/Git/C-/Exam/SEM3_T2207E_WDA_Test/Exam/Views/DepartmentModels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudE1vZGVsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apptech/Git/C-/Exam/SEM3_T2207E_WDA_Test/Exam/Views/DepartmentModels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudE1vZGVsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apptech/Git/C-/Exam/SEM3_T2207E_WDA_Test/Exam/Views/EmployeeModels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNb2RlbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apptech/Git/C-/Exam/SEM3_T2207E_WDA_Test/Exam/Views/EmployeeModels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNb2RlbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apptech/Git/C-/Exam/SEM3_T2207E_WDA_Test/Exam/Views/EmployeeModels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNb2RlbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apptech/Git/C-/Exam/SEM3_T2207E_WDA_Test/Exam/Views/EmployeeModels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNb2RlbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apptech/Git/C-/Exam/SEM3_T2207E_WDA_Test/Exam/Views/EmployeeModels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNb2RlbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Apptech/Git/C-/Exam/SEM3_T2207E_WDA_Test/Exam/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
